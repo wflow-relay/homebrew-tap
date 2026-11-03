@@ -1,6 +1,6 @@
 cask "relay" do
-  version "0.2.0"
-  sha256 "25e51b09d3a847b767aa4e5cfea6b75ae3edd27a2ede2e32ffd01faf02f799c4"
+  version "0.3.0"
+  sha256 "0b24f3fc71f27356ba18366727d1575eb3820e954cca186462ca6d18cee64c9c"
 
   url "https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v#{version}/Relay-#{version}.dmg"
   name "Relay"
