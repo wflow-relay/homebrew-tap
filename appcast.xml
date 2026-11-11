@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Relay</title>
+    <!-- versions: the newest first (scripts/release.sh) -->
+    <item>
+      <title>Relay 0.5.0</title>
+      <pubDate>Wed, 11 Nov 2026 11:40:18 +0000</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.5.0: a step of the history opens inside the card with what it did, Relay updates itself with a click, Enviar comentarios and uninstalling from Settings, the team's «Empezar» page, and Relay launches wflow with your shell's whole environment; wflow v0.22.0 inside</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.5.0/Relay-0.5.0.dmg" sparkle:edSignature="v+4Y9nhVIWG5YZiPPvra+CsnbfeTlWVx1e7OJiRxESpbEzhKlJzCgkN4jav1xRgaYHByLpOBKmV/WVgZ0XbxDg==" length="75991439" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
