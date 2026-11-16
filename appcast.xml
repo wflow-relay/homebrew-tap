@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.6.0</title>
+      <pubDate>Mon, 16 Nov 2026 14:43:14 +0000</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.6.0: the QA stop opens at its try, full size inside the card, with the plan in one line and the OK one click away; Relay says when it could not read your shell and your ~/.zshrc variables do not reach the cards; wflow v0.23.0 inside</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.6.0/Relay-0.6.0.dmg" sparkle:edSignature="7MFsyFWd6EI1/D5RANWxJ/0fwUlnrX+fQVDeRD78JsrHfoSXzKbNDiCYJdyxkCqc8X4oJuPVL1iPQedTReM8CQ==" length="76661125" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.5.0</title>
       <pubDate>Wed, 11 Nov 2026 11:40:18 +0000</pubDate>
       <sparkle:version>93</sparkle:version>
