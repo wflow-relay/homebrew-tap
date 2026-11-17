@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.7.0</title>
+      <pubDate>Tue, 17 Nov 2026 18:46:52 +0000</pubDate>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.7.0: profiles of agents per card: save your own with the names you give them (the three of wflow's stay as the starting ones), pick one in «Empezar card» for each card, and every card says which one it runs with; wflow v0.24.0 inside</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.7.0/Relay-0.7.0.dmg" sparkle:edSignature="KUtEMQhThrtl4tKIvv7hxGuswvYi8fHmVftoHeiJKCldClDAYRukSmC+m+ilck4au8pfCmQk1nxw36Qet8WpCA==" length="77538199" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.6.1</title>
       <pubDate>Tue, 17 Nov 2026 13:20:37 +0000</pubDate>
       <sparkle:version>106</sparkle:version>
