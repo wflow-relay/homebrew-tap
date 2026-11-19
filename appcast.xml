@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.8.0</title>
+      <pubDate>Thu, 19 Nov 2026 00:24:27 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.8.0: every phase of a profile has its owner row in «Agentes y modelos»: «Corregir» also covers the PR's comments and the conflicts, «Rama, PR y merge» the branch's name, and nothing runs with a model you did not choose; wflow v0.25.0 inside: verify on web with wflow's own Chrome for every agent, the rehearsal that tries verify in each app (wflow doctor --live --verify) and the verify login per repo in the Keychain</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.8.0/Relay-0.8.0.dmg" sparkle:edSignature="L3dAw9McxxTlWL/P7Tm0yQoUseG4ijBo3LupF5wJjDRHmzRoR7Dkw2LUBqq+nyGVX8iC7kCiaUngPiDgJHOQBA==" length="78254156" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.7.0</title>
       <pubDate>Tue, 17 Nov 2026 18:46:52 +0000</pubDate>
       <sparkle:version>118</sparkle:version>
