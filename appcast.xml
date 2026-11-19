@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.9.1</title>
+      <pubDate>Thu, 19 Nov 2026 11:27:00 +0000</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.9.1: with wflow v0.25.1, reviewers with Claude write their artifact in the card's run folder again (Claude Code had started denying it along with the checkout)</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.9.1/Relay-0.9.1.dmg" sparkle:edSignature="igAaM/kIPyE4Zs42INRHWbeK7ifd4pu6+qEz3OBspW/zVtwPwW2ah16bBW3wXmCtfzj2BwJ4i7JHz+uxf0RxAg==" length="78894586" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.9.0</title>
       <pubDate>Thu, 19 Nov 2026 02:21:37 +0000</pubDate>
       <sparkle:version>137</sparkle:version>
