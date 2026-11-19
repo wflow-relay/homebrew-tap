@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.9.2</title>
+      <pubDate>Thu, 19 Nov 2026 16:17:13 +0000</pubDate>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.9.2: each step's menu offers every model of the CLI (Codex's gpt-6.2-sol and gpt-6.2-astra among them), and Settings › wflow shows the PATH wflow runs with and where it comes from; when your shell does not answer, wflow keeps the last PATH Relay read instead of one without your agents</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.9.2/Relay-0.9.2.dmg" sparkle:edSignature="BthkBi+R9iaB2ASe4ehEuJ5wbLP3ZG6Lp+G9ZUrn2Y/EiOI8OdPO1x2bu7DmI2D3Fw7SD3+TMRLqAJh4mhBgDA==" length="78902913" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.9.1</title>
       <pubDate>Thu, 19 Nov 2026 11:27:00 +0000</pubDate>
       <sparkle:version>138</sparkle:version>
