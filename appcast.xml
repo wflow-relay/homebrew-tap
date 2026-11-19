@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.9.0</title>
+      <pubDate>Thu, 19 Nov 2026 02:21:37 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.9.0: the welcome in three steps: «Prepara tu Mac» shows only what needs you, «Quién hace cada paso» chooses the profile, and «Prueba que todo funciona» tries your agents and your apps' verify with that profile in the repo you choose; quitting or closing stops a running rehearsal with everything it started</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.9.0/Relay-0.9.0.dmg" sparkle:edSignature="/iUbXJv4tqeqzbihHZa1lbV/kEkKtqZxQsrLVSMVXlgEDGye8920SwMKz9KzfNLvLlYyXRsvHvgpv2ymlzbwCw==" length="78892862" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.8.0</title>
       <pubDate>Thu, 19 Nov 2026 00:24:27 +0000</pubDate>
       <sparkle:version>128</sparkle:version>
