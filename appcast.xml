@@ -4,6 +4,15 @@
     <title>Relay</title>
     <!-- versions: the newest first (scripts/release.sh) -->
     <item>
+      <title>Relay 0.9.3</title>
+      <pubDate>Fri, 20 Nov 2026 11:49:09 +0000</pubDate>
+      <sparkle:version>158</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Relay 0.9.3: el grafo de la card enseña quién hace de verdad cada paso. El paso en marcha lleva el agente y el modelo que lo están corriendo, y los pasos que vienen, los del perfil de la card (con wflow v0.25.2) y no los de tus fases por defecto. Cada agente tiene su logo, Cursor incluido, y se ve en claro y en oscuro; el paso Card lleva el de Notion cuando la card viene de ahí. Los nombres largos de agente ya no se pisan bajo los pasos</description>
+      <enclosure url="https://github.com/wflow-relay/homebrew-tap/releases/download/relay-v0.9.3/Relay-0.9.3.dmg" sparkle:edSignature="nmN0OjYabiGIlfN2MPk/69GySALbiDQDNr8/IHqPHrQW7JS+6Akq6qeTnNCZRgjeZ3wo2yM8oEUgmgkaTh5/BA==" length="78897228" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Relay 0.9.2</title>
       <pubDate>Thu, 19 Nov 2026 16:17:13 +0000</pubDate>
       <sparkle:version>141</sparkle:version>
